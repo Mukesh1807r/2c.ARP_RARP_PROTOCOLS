@@ -19,7 +19,7 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 
 ## PROGRAM - ARP
-```
+```python
 CLIENT:
 
 import socket
